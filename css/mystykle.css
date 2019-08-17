@@ -6,9 +6,9 @@
 */
 .indent-1{margin-top: 4%; margin-left: 2%; margin-right: 5%;}
 
-.me {align-content: center;margin-right: 5%;}
+.me {align-content: center;margin-right: 5%; margin-left: 3%;}
 
-.cards{margin-top: 4%;}
+.cards{margin-top: 4%; margin-left: 5%;}
 
 .ContatoCard  {
     width: 400px;
@@ -16,4 +16,10 @@
     
     margin: auto;
 text-align: center;}
-
+body{
+    background-image: url(zinco.png)
+}
+.carousel-inner{
+    width:100%;
+    max-height: 500px !important;
+  }
