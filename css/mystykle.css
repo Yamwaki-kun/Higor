@@ -1,0 +1,19 @@
+
+/*.indent-1 {float: left;}
+.me {float: left; margin-left: 2%; margin-right: 5%;position: fixed;}
+.indent-1 section {width: 40%; float: left; margin-top: 5%; margin-left: 5%;margin-right: 5%; text-align: center;align-content: center;}
+
+*/
+.indent-1{margin-top: 4%; margin-left: 2%; margin-right: 5%;}
+
+.me {align-content: center;margin-right: 5%;}
+
+.cards{margin-top: 4%;}
+
+.ContatoCard  {
+    width: 400px;
+    height: 50px;
+    
+    margin: auto;
+text-align: center;}
+
